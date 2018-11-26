@@ -1,4 +1,5 @@
 public class Admin{
 	private NiHao nh ;
-	private Integer mo ;
+	private String user ;
+
 }
