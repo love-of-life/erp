@@ -1,0 +1,24 @@
+From 5195f68043f8a04ffff9c70f13d3ead92a651c1f Mon Sep 17 00:00:00 2001
+From: love-of-life <3349592229@qq.com>
+Date: Mon, 26 Nov 2018 21:15:10 +0800
+Subject: [PATCH 2/2] change java
+
+---
+ Hello.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/Hello.java b/Hello.java
+index 5cb9f6c..421fd09 100644
+--- a/Hello.java
++++ b/Hello.java
+@@ -2,5 +2,6 @@ public class Hello {
+ 	public static void main(String args[]){
+ 		System.out.println("git") ;
+ 		System.out.println("git1") ;
++		private Integer x ;
+ 	}
+ }
+\ No newline at end of file
+-- 
+2.19.2.windows.1
+
